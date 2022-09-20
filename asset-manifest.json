@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bce1af5.css",
+    "main.js": "/static/js/main.a92d11a7.js",
+    "static/media/logo-css.png": "/static/media/logo-css.3bd8f9cdaf30d5c3ae73.png",
+    "static/media/logo-html.png": "/static/media/logo-html.acbf2bf315bb80686ea3.png",
+    "static/media/background3.jpg": "/static/media/background3.6490fb6ce8d7df904787.jpg",
+    "static/media/Kanit-Medium.ttf": "/static/media/Kanit-Medium.786fd6bb96ce0cf5c5b2.ttf",
+    "static/media/LuckiestGuy-Regular.ttf": "/static/media/LuckiestGuy-Regular.fd5a8f5e455b026973fc.ttf",
+    "static/media/logo-javascript.png": "/static/media/logo-javascript.a936d6e165c05188ff75.png",
+    "static/media/logo-node.png": "/static/media/logo-node.7c94c770dd462ef14ec9.png",
+    "static/media/logo-vue-js.jpg": "/static/media/logo-vue-js.ab86504dab2cdd935072.jpg",
+    "static/media/logo-react-js.png": "/static/media/logo-react-js.fd373eec9017cf21b26d.png",
+    "index.html": "/index.html",
+    "main.1bce1af5.css.map": "/static/css/main.1bce1af5.css.map",
+    "main.a92d11a7.js.map": "/static/js/main.a92d11a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bce1af5.css",
+    "static/js/main.a92d11a7.js"
+  ]
+}
